@@ -305,15 +305,6 @@ CCTV-15,https://mgtv.ottiptv.cc/mg/673168223.m3u8?userid=6510826469&sign=6bc62b3
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 
-经典剧场,#genre#
-笑傲江湖,https://live.metshop.top/huya/26355790
-笑傲江湖,https://live.metshop.top/huya/23865142
-笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=26355790
-笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=23865142
-三国演义,https://live.metshop.top/huya/11602081
-三国演义,http://cdn.jdshipin.com:8880/huya.php?id=11602081
-三国演义,https://live.ottiptv.cc/huya/11602081
-
 动画频道,#genre#
 猫和老鼠,https://live.metshop.top/huya/11352879
 猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879
@@ -321,6 +312,24 @@ CCTV-15,https://mgtv.ottiptv.cc/mg/673168223.m3u8?userid=6510826469&sign=6bc62b3
 中华小当家,https://live.metshop.top/huya/11342413
 中华小当家,http://cdn.jdshipin.com:8880/huya.php?id=11342413
 中华小当家,https://live.ottiptv.cc/huya/11342413
+
+经典剧场,#genre#
+笑傲江湖,https://live.metshop.top/huya/26355790
+笑傲江湖,https://live.metshop.top/huya/23865142
+笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=26355790
+笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=23865142
+天龙八部,https://live.metshop.top/huya/20985816
+天龙八部,http://cdn.jdshipin.com:8880/huya.php?id=20985816
+天龙八部,https://live.ottiptv.cc/huya/20985816
+天龙八部,https://live.ottiptv.cc/yy/1351814644
+三国演义,https://live.metshop.top/huya/11602081
+三国演义,http://cdn.jdshipin.com:8880/huya.php?id=11602081
+三国演义,https://live.ottiptv.cc/huya/11602081
+仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
+射雕英雄传,https://live.metshop.top/huya/23824164
+射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
+射雕英雄传,https://live.ottiptv.cc/huya/23824164
+新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
 
 电影频道,#genre#
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-15.ctv
@@ -337,13 +346,34 @@ CHC动作电影,https://stream.freetv.fun/2f2e29b8759a2458730dc1f368602447269195
 CHC动作电影,https://mgtv.ottiptv.cc/mg/644368714.m3u8?userid=6510826469&sign=c85f502d714fa1110c9142c3f6a3f4244eb840276c9d27f191cc8633b62e5d615e79f2f78712a92907b0f1118ca6a2333375d70ff2b39e51b19706f0ec7fc9d5a32fbaa527e73272759cb66a63fe1e5e87&auth_token=a4de83e016941a45965a2d7b7e12a605
 
 DJ,#genre#
+吉米阿加,https://vd2.bdstatic.com/mda-pk1ccehgau3ywq8q/hd/cae_h264/1699059021606217448/mda-pk1ccehgau3ywq8q.mp4
+来生缘,https://vd4.bdstatic.com/mda-kehs27bpje6waquc/v1-cae/hd/mda-kehs27bpje6waquc.mp4
+再回首,https://vd2.bdstatic.com/mda-pafjd1v1n9ggb9iu/cae_h264/1673876715680366331/mda-pafjd1v1n9ggb9iu.mp4
+你的样子,https://vd4.bdstatic.com/mda-ij80h3v59j4v103c/hd/mda-ij80h3v59j4v103c.mp4
+吻别,https://vd2.bdstatic.com/mda-pdej6q5h4df2a2mk/576p/h264/1681565638672337930/mda-pdej6q5h4df2a2mk.mp4
+追梦人,https://vd4.bdstatic.com/mda-mh8f01ccyz4h9618/hd/cae_h264/1628596851603338254/mda-mh8f01ccyz4h9618.mp4
+风中的承诺,https://vd3.bdstatic.com/mda-pkv9rdh1jhdvwcwq/576p/h264/1701327452432484223/mda-pkv9rdh1jhdvwcwq.mp4
+偏偏喜欢你,https://vd4.bdstatic.com/mda-mk0ey8nfw4z6z65h/hd/cae_h264/1635763549469073367/mda-mk0ey8nfw4z6z65h.mp4
+离别,https://vd2.bdstatic.com/mda-nis36w7374suxm00/hd/cae_h264/1664504444653583103/mda-nis36w7374suxm00.mp4
+星星点灯,https://vd2.bdstatic.com/mda-pii3c8xuigk63tmt/576p/h264/1695090640254449011/mda-pii3c8xuigk63tmt.mp4
+晚秋,https://vd2.bdstatic.com/mda-kipe35zz6r2siw2y/v1-cae/hd/mda-kipe35zz6r2siw2y.mp4
+英雄泪,https://vd3.bdstatic.com/mda-pjpquybu39vxxx2y/hd/cae_h264/1698238201770022195/mda-pjpquybu39vxxx2y.mp4
+眉飞色舞,https://vd2.bdstatic.com/mda-mkqi8zsh8r874xii/sc/cae_h264/1637854401020299343/mda-mkqi8zsh8r874xii.mp4
 千千阙歌,https://vd3.bdstatic.com/mda-pekhir0i9yce68a1/576p/h264/1684672066966103593/mda-pekhir0i9yce68a1.mp4
+如愿,https://vd3.bdstatic.com/mda-nj893jys65vc5di7/1080p/cae_h264/1665297194839835468/mda-nj893jys65vc5di7.mp4
+一百万个可能,https://vd2.bdstatic.com/mda-ikcrjhezf8j5udna/sc/mda-ikcrjhezf8j5udna.mp4
+你的答案,https://vd4.bdstatic.com/mda-khpzagdsc57i1vic/sc/cae_h264_nowatermark/mda-khpzagdsc57i1vic.mp4
+月老掉线,https://vd3.bdstatic.com/mda-nc348dse2t71m6az/1080p/cae_h264_delogo/1646365337334502921/mda-nc348dse2t71m6az.mp4
+富士山下,https://vd4.bdstatic.com/mda-nhu5bbk3fu1kaq1e/1080p/cae_h264/1661763686061850917/mda-nhu5bbk3fu1kaq1e.mp4
+黑桃A,https://vd3.bdstatic.com/mda-nj7ate5y1i7c8y5r/720p/h264/1665214737276344049/mda-nj7ate5y1i7c8y5r.mp4
+秒针,https://vd4.bdstatic.com/mda-nbe2inzqcpkd8ypj/1080p/cae_h264_delogo/1645009266570212373/mda-nbe2inzqcpkd8ypj.mp4
+解药,https://vd2.bdstatic.com/mda-mhcimca225xprqep/1080p/cae_h264/1628860987365651821/mda-mhcimca225xprqep.mp4
 
 虎牙,#genre#
 电影_星爷,https://www.goodiptv.club/huya/11342412
 电影_发哥,https://www.goodiptv.club/huya/11342387
 电影_成龙,https://www.goodiptv.club/huya/11342386
-电影_沈腾,https://www.goodiptv.club/huya/11601968
 电影_王晶,https://www.goodiptv.club/huya/11602058
-电影_李连杰,https://www.goodiptv.club/huya/11342390
+电影_沈腾,https://www.goodiptv.club/huya/11601968
 电影_刘德华,https://www.goodiptv.club/huya/11342424
+电影_李连杰,https://www.goodiptv.club/huya/11342390
