@@ -1,14 +1,13 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
 https://live.ottiptv.cc/iptv.m3u?userid=6510826469&sign=77cfb63ae1437965aa628226be5a2d7c8d65793fccaf6283fff318a2d77bc9cf62051c54d3fddda3956ddfa401321d3f0db8a367f14daf30c54bd126fda227ae1942aa7f988b48&auth_token=a4de83e016941a45965a2d7b7e12a605
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://7952.kstore.vip/JAR/zs.txt
 https://iptv.aleng.dpdns.org/
 https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
-
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
