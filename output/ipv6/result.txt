@@ -64,16 +64,19 @@ CCTV-12,https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8
 CCTV-12,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV-12,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?
 CCTV-12,https://mgtv.ottiptv.cc/mg/673168185.m3u8?userid=6510826469&sign=6f4586f459fd3e0f4bc6e0332c5bb238b526ef71cdde5c3476991119acac3e8f63cdc5d517dc2cedbbb44b5f373fabf4eeb603df3b2fa63308b4c3549decb6a282b2dc00c2bd74ad92f3bd84cc8e6ecdfa&auth_token=a4de83e016941a45965a2d7b7e12a605
+CCTV-12,https://mgtv.ottiptv.cc/mg/673168185.m3u8?userid=6510826469&sign=cc463cc08c3a5b792bb252bf6b9de8499f8bfd1982311f50da068a5759883a7f0a53102454c7814698f56323ce336468192a9ad527bb187152e89c5b703960ae02f4708b88e6b6c652ff8ee510e4830d88&auth_token=a4de83e016941a45965a2d7b7e12a605
 CCTV-13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV-13,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
 CCTV-13,https://hls-gateway.vpstv.net/streams/476899.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,https://mgtv.ottiptv.cc/mg/608807423.m3u8?userid=6510826469&sign=50c0b1493a12d89d1c8a491a95f87aa20801596b64ec6447feab54b7ca9d5bec624d9eede8ae394e733a17c65701ce5f38337128b7519d9844a69d9bb2ec985bbfc539253a5e962a79dbb6de0af3439a12&auth_token=a4de83e016941a45965a2d7b7e12a605
+CCTV-13,https://mgtv.ottiptv.cc/mg/608807423.m3u8?userid=6510826469&sign=03946c54ed9906753035977864d063dc04426cbf53efd8957b695f3645c7c4c836cea8cb3e93e077a457702c0852ab4cc7b867a916220a10e29955ef40ae3c829eb72abcb073e72c112b60f726295bc863&auth_token=a4de83e016941a45965a2d7b7e12a605
 CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 CCTV-14,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-14,https://hls-gateway.vpstv.net/streams/476900.m3u8
 CCTV-14,https://mgtv.ottiptv.cc/mg/624878440.m3u8?userid=6510826469&sign=fa664383307e240d77c5b148bf5965e6c25808faf60d3994ae80e73fb72dfd5ee49d04822de2a3953c735f71f68bf045ee642f487ff7a34349f7b38ebf988d93d9dd10152be89f7030dbddd21cc16a4379&auth_token=a4de83e016941a45965a2d7b7e12a605
+CCTV-14,https://mgtv.ottiptv.cc/mg/624878440.m3u8?userid=6510826469&sign=9570ac6f70adc3f7bae5e3bb62ea7648045d98b663294883e8c56f1c83a80717ed08aa9307fbfb620f6baf2d24e71cf9bd004369e23528678c8c561e09a97322ce801dbb8b7a59d6d6c2ba666a80a726fd&auth_token=a4de83e016941a45965a2d7b7e12a605
 CCTV-15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231494cabd07e5b49d965804790214280c9791e4c331fd90311cb62ea43d3a1899229bfa57be4afe5a567b32a6b78153fc9a9801e28a39435e078b48c211e71d6083519be4
 CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
@@ -110,6 +113,7 @@ CCTV-15,https://mgtv.ottiptv.cc/mg/673168223.m3u8?userid=6510826469&sign=1b93a6f
 重庆卫视,https://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/01.m3u8?&HlsSubType=&encrypt=
 重庆卫视,http://mgsp-zy2.live.miguvideo.com:8088/envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20260215080209&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=218.28.233.106&SecurityKey=20260215080209&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=abcb9a2ebb25ac5bf5b8e36ac904b5e4&sv=10004&ct=android
 重庆卫视,https://mgtv.ottiptv.cc/mg/738910914.m3u8?userid=6510826469&sign=55fe5c7d8bdcb7fd25b021a42ddf84309fc6be38686090246c34e341e634bc72d19f0d5d2337c099520fe3d060672d517f84c854f29413253dc87036d7c389e1c2183d0c6a3e2835a39f28c6d63bfea56d&auth_token=a4de83e016941a45965a2d7b7e12a605
+重庆卫视,https://mgtv.ottiptv.cc/mg/738910914.m3u8?userid=6510826469&sign=07cf0b912ab12a87eff10fdf47a0cadd8c4c5375f4b22bd0a06ed9a99b421a1443fb82a0f29b8ddfb112298e34af653dbc402978844b3af0136d1e652a6b9c30963c0857551384ba32e5095b3a96df6e0f&auth_token=a4de83e016941a45965a2d7b7e12a605
 东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
 东方卫视,https://migu.188766.xyz/?migutoken=d30a6db07f9a401217557c7884f1897e&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
 东方卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
