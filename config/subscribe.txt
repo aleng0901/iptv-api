@@ -1,18 +1,8 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-https://gitee.com/OscarWilde/itv/raw/master/tv.txt
-https://live.ottiptv.cc/iptv.m3u?userid=7601455084&sign=8d90bbf8aeac077cf2f4cc84a6a67a9ef5cdf776237a4c716b75a37c33c5c3044f0630b937bb210c795ead158d3bf3fdc9ef716881d7f57e146ae978afcc3e31526b2cdae71fd0&auth_token=47968e58f2b34cace69dbe0d0fc69b93
-https://php.946985.filegear-sg.me/jackTV.m3u
-https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/lenin.txt
-https://gh-proxy.com/raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
-https://gh-proxy.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
-http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
-http://iptv.4666888.xyz/FYTV.txt
-https://gh-proxy.com/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
-https://gh-proxy.com/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt 
-http://ge.html-5.me//ii/黄蚂蚁先锋推流源.txt
-http://rihou.cc:555/gggg.nzk
-https://d.kstore.dev/download/8344/1电信酒店.txt
+https://gh-proxy.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+https://gh-proxy.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
+
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
