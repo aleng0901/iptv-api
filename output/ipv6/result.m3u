@@ -801,6 +801,16 @@ http://eastscreen.tv/ooooo.php?id=chcdz
 http://z.b.bkpcp.top/m.php?id=dzdy
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
+https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/lenin.txt
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
+http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
+https://gh-proxy.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
+https://gitee.com/OscarWilde/itv/raw/master/tv.txt
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
+http://iptv.4666888.xyz/FYTV.txt
 #EXTINF:-1 tvg-name="吉米阿加" tvg-logo="吉米阿加.png" group-title="🎵DJ",吉米阿加
 https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/lenin.txt
 #EXTINF:-1 tvg-name="吉米阿加" tvg-logo="吉米阿加.png" group-title="🎵DJ",吉米阿加

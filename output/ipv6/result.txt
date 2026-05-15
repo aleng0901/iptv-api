@@ -428,6 +428,11 @@ CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-24.ctv
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 CHC动作电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8
+CHC高清电影,https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/lenin.txt
+CHC高清电影,http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
+CHC高清电影,https://gh-proxy.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+CHC高清电影,https://gitee.com/OscarWilde/itv/raw/master/tv.txt
+CHC高清电影,http://iptv.4666888.xyz/FYTV.txt
 
 🎵DJ,#genre#
 吉米阿加,https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/lenin.txt
